@@ -1,5 +1,5 @@
 <h1> DEAD INSIDE </h1>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasiulhaque&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasiulhaque&theme=tokyonight)(https://github.com/wasiulhaque) 
 
 
 <!--

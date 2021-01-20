@@ -1,5 +1,6 @@
 <h1> DEAD INSIDE </h1>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasiulhaque&layout=compact&hide_border=false&title_color=eb0029)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasiulhaque&theme=tokyonight)
+
 
 <!--
 **wasiulhaque/wasiulhaque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

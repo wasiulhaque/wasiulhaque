@@ -1,6 +1,7 @@
 <h1> DEAD INSIDE 
 <img align="center" alt="visitors" src="https://gpvc.arturio.dev/wasiulhaque" /></h1> 
-<img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wasiulhaque&theme=dark") 
+<img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wasiulhaque&theme=merko")/>
+
 
 
 <!--

@@ -27,9 +27,9 @@ class Bio
 class Stack
 {
     public string[] Languages { get; init; } = { "C#", "JavaScript", "Python" };
-    public string[] Frameworks { get; init; } = { "ASP.Net", "ReactJS", "Django" };
+    public string[] Frameworks { get; init; } = { "ASP.Net", "FastAPI", "ReactJS" };
     public string[] Databases { get; init; } = { "MySQL", "PostgreSQL", "Mongo" };
-    public string[] Learning { get; init; } = { "Docker", "GraphQL" };
+    public string[] Learning { get; init; } = { "Docker", "GraphQL", "Rust" };
 }
 
 [DataClass(unsafeHash: true, frozen: true)]
